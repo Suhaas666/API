@@ -1,0 +1,7 @@
+Flask
+pandas
+numpy
+joblib
+pickle5
+scipy
+scikit-learn
